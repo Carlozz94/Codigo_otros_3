@@ -5,12 +5,12 @@ input {
 }
 
 #lista-de-productos {
-  display: flex
+  display: flex;
 }
 
 .producto {
   width: 200px;
-  height: 200px;
+  height: 200%;
   margin: 10px;
   border: 2px solid black;
   display: flex;
